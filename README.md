@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+https://github.com/innosaintejio4/Stat-Preview-Card-Solution/blob/main/Screenshots/Frontend%20Mentor-My%20Stat-Preview%20Solution%20-%20Mobile%20view.png
 
 
 ### Links
