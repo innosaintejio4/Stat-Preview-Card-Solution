@@ -31,6 +31,7 @@ Users should be able to:
 ### Screenshot
 
 https://github.com/innosaintejio4/Stat-Preview-Card-Solution/blob/main/Screenshots/Frontend%20Mentor-My%20Stat-Preview%20Solution%20-%20Mobile%20view.png
+https://github.com/innosaintejio4/Stat-Preview-Card-Solution/blob/main/Screenshots/Frontend%20Mentor-My%20Stat-Preview%20Solution-Desktop%20view.png
 
 
 ### Links
